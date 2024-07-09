@@ -1,0 +1,204 @@
+RX (06/05/24 09:31:59.409): Connected to device on Port COM4
+TX (06/05/24 09:33:03.378): 0;
+TX (06/05/24 09:33:04.111): Sending 1 -> 2 bytes
+TX (06/05/24 09:33:04.195): 2 bytes done
+RX (06/05/24 09:33:04.241): 0: BrightLab Strobe Lamp_v1.1_01TX (06/05/24 09:33:05.442): Q;
+TX (06/05/24 09:33:05.490): Sending 1 -> 2 bytes
+TX (06/05/24 09:33:05.519): 2 bytes done
+RX (06/05/24 09:33:05.544): Q: StartRX (06/05/24 09:33:05.642): Q: aaa.txt		10 BytesRX (06/05/24 09:33:05.739): Q: Example.txt		2678400 BytesRX (06/05/24 09:33:05.837): Q: 10hz15minaperiodic.txt		840000 BytesRX (06/05/24 09:33:05.946): Q: EndTX (06/05/24 09:33:07.137): T,Example.txt,Example.txt;
+TX (06/05/24 09:33:07.166): Sending 1 -> 26 bytes
+TX (06/05/24 09:33:07.194): 26 bytes done
+RX (06/05/24 09:33:07.221): T: Deleting file Example.txtRX (06/05/24 09:33:07.290): T: FinishedTX (06/05/24 09:33:08.456): Q;
+TX (06/05/24 09:33:08.484): Sending 1 -> 2 bytes
+TX (06/05/24 09:33:08.509): 2 bytes done
+RX (06/05/24 09:33:08.534): Q: StartRX (06/05/24 09:33:08.597): Q: aaa.txt		10 BytesRX (06/05/24 09:33:08.674): Q: 10hz15minaperiodic.txt		840000 BytesRX (06/05/24 09:33:08.748): Q: EndTX (06/05/24 09:33:12.970): W,Example.txt,2116800;
+TX (06/05/24 09:33:12.998): Sending 1 -> 22 bytes
+TX (06/05/24 09:33:13.034): 22 bytes done
+RX (06/05/24 09:33:13.065): W: Data transmission approved.TX (06/05/24 09:33:14.252): 2116800 bytes start
+TX (06/05/24 09:33:14.282): Sending 1 -> 12000 bytes
+TX (06/05/24 09:33:14.316): Sending 12001 -> 24000 bytes
+TX (06/05/24 09:33:14.475): Sending 24001 -> 36000 bytes
+TX (06/05/24 09:33:14.662): Sending 36001 -> 48000 bytes
+TX (06/05/24 09:33:14.818): Sending 48001 -> 60000 bytes
+TX (06/05/24 09:33:14.961): Sending 60001 -> 72000 bytes
+TX (06/05/24 09:33:15.132): Sending 72001 -> 84000 bytes
+TX (06/05/24 09:33:15.273): Sending 84001 -> 96000 bytes
+TX (06/05/24 09:33:15.413): Sending 96001 -> 108000 bytes
+TX (06/05/24 09:33:15.554): Sending 108001 -> 120000 bytes
+TX (06/05/24 09:33:15.694): Sending 120001 -> 132000 bytes
+TX (06/05/24 09:33:15.835): Sending 132001 -> 144000 bytes
+TX (06/05/24 09:33:15.976): Sending 144001 -> 156000 bytes
+TX (06/05/24 09:33:16.117): Sending 156001 -> 168000 bytes
+TX (06/05/24 09:33:16.258): Sending 168001 -> 180000 bytes
+TX (06/05/24 09:33:16.398): Sending 180001 -> 192000 bytes
+TX (06/05/24 09:33:16.539): Sending 192001 -> 204000 bytes
+TX (06/05/24 09:33:16.679): Sending 204001 -> 216000 bytes
+TX (06/05/24 09:33:16.820): Sending 216001 -> 228000 bytes
+TX (06/05/24 09:33:16.961): Sending 228001 -> 240000 bytes
+TX (06/05/24 09:33:17.101): Sending 240001 -> 252000 bytes
+TX (06/05/24 09:33:17.242): Sending 252001 -> 264000 bytes
+TX (06/05/24 09:33:17.394): Sending 264001 -> 276000 bytes
+TX (06/05/24 09:33:17.534): Sending 276001 -> 288000 bytes
+TX (06/05/24 09:33:17.690): Sending 288001 -> 300000 bytes
+TX (06/05/24 09:33:17.831): Sending 300001 -> 312000 bytes
+TX (06/05/24 09:33:17.973): Sending 312001 -> 324000 bytes
+TX (06/05/24 09:33:18.129): Sending 324001 -> 336000 bytes
+TX (06/05/24 09:33:18.286): Sending 336001 -> 348000 bytes
+TX (06/05/24 09:33:18.442): Sending 348001 -> 360000 bytes
+TX (06/05/24 09:33:18.598): Sending 360001 -> 372000 bytes
+TX (06/05/24 09:33:18.739): Sending 372001 -> 384000 bytes
+TX (06/05/24 09:33:18.880): Sending 384001 -> 396000 bytes
+TX (06/05/24 09:33:19.037): Sending 396001 -> 408000 bytes
+TX (06/05/24 09:33:19.193): Sending 408001 -> 420000 bytes
+TX (06/05/24 09:33:19.334): Sending 420001 -> 432000 bytes
+TX (06/05/24 09:33:19.490): Sending 432001 -> 444000 bytes
+TX (06/05/24 09:33:19.631): Sending 444001 -> 456000 bytes
+TX (06/05/24 09:33:19.786): Sending 456001 -> 468000 bytes
+TX (06/05/24 09:33:19.943): Sending 468001 -> 480000 bytes
+TX (06/05/24 09:33:20.099): Sending 480001 -> 492000 bytes
+TX (06/05/24 09:33:20.241): Sending 492001 -> 504000 bytes
+TX (06/05/24 09:33:20.392): Sending 504001 -> 516000 bytes
+TX (06/05/24 09:33:20.532): Sending 516001 -> 528000 bytes
+TX (06/05/24 09:33:20.688): Sending 528001 -> 540000 bytes
+TX (06/05/24 09:33:21.516): Sending 540001 -> 552000 bytes
+TX (06/05/24 09:33:21.658): Sending 552001 -> 564000 bytes
+TX (06/05/24 09:33:21.798): Sending 564001 -> 576000 bytes
+TX (06/05/24 09:33:21.939): Sending 576001 -> 588000 bytes
+TX (06/05/24 09:33:22.080): Sending 588001 -> 600000 bytes
+TX (06/05/24 09:33:22.220): Sending 600001 -> 612000 bytes
+TX (06/05/24 09:33:22.361): Sending 612001 -> 624000 bytes
+TX (06/05/24 09:33:22.502): Sending 624001 -> 636000 bytes
+TX (06/05/24 09:33:22.643): Sending 636001 -> 648000 bytes
+TX (06/05/24 09:33:22.783): Sending 648001 -> 660000 bytes
+TX (06/05/24 09:33:22.924): Sending 660001 -> 672000 bytes
+TX (06/05/24 09:33:23.065): Sending 672001 -> 684000 bytes
+TX (06/05/24 09:33:23.205): Sending 684001 -> 696000 bytes
+TX (06/05/24 09:33:23.346): Sending 696001 -> 708000 bytes
+TX (06/05/24 09:33:23.480): Sending 708001 -> 720000 bytes
+TX (06/05/24 09:33:23.622): Sending 720001 -> 732000 bytes
+TX (06/05/24 09:33:23.762): Sending 732001 -> 744000 bytes
+TX (06/05/24 09:33:23.903): Sending 744001 -> 756000 bytes
+TX (06/05/24 09:33:24.044): Sending 756001 -> 768000 bytes
+TX (06/05/24 09:33:24.201): Sending 768001 -> 780000 bytes
+TX (06/05/24 09:33:24.342): Sending 780001 -> 792000 bytes
+TX (06/05/24 09:33:24.483): Sending 792001 -> 804000 bytes
+TX (06/05/24 09:33:24.623): Sending 804001 -> 816000 bytes
+TX (06/05/24 09:33:24.764): Sending 816001 -> 828000 bytes
+TX (06/05/24 09:33:24.904): Sending 828001 -> 840000 bytes
+TX (06/05/24 09:33:25.045): Sending 840001 -> 852000 bytes
+TX (06/05/24 09:33:25.185): Sending 852001 -> 864000 bytes
+TX (06/05/24 09:33:25.326): Sending 864001 -> 876000 bytes
+TX (06/05/24 09:33:25.467): Sending 876001 -> 888000 bytes
+TX (06/05/24 09:33:25.610): Sending 888001 -> 900000 bytes
+TX (06/05/24 09:33:25.751): Sending 900001 -> 912000 bytes
+TX (06/05/24 09:33:25.891): Sending 912001 -> 924000 bytes
+TX (06/05/24 09:33:26.032): Sending 924001 -> 936000 bytes
+TX (06/05/24 09:33:26.173): Sending 936001 -> 948000 bytes
+TX (06/05/24 09:33:26.306): Sending 948001 -> 960000 bytes
+TX (06/05/24 09:33:26.456): Sending 960001 -> 972000 bytes
+TX (06/05/24 09:33:26.597): Sending 972001 -> 984000 bytes
+TX (06/05/24 09:33:26.753): Sending 984001 -> 996000 bytes
+TX (06/05/24 09:33:26.894): Sending 996001 -> 1008000 bytes
+TX (06/05/24 09:33:27.036): Sending 1008001 -> 1020000 bytes
+TX (06/05/24 09:33:27.176): Sending 1020001 -> 1032000 bytes
+TX (06/05/24 09:33:27.317): Sending 1032001 -> 1044000 bytes
+TX (06/05/24 09:33:27.457): Sending 1044001 -> 1056000 bytes
+TX (06/05/24 09:33:27.598): Sending 1056001 -> 1068000 bytes
+TX (06/05/24 09:33:27.738): Sending 1068001 -> 1080000 bytes
+TX (06/05/24 09:33:27.879): Sending 1080001 -> 1092000 bytes
+TX (06/05/24 09:33:28.020): Sending 1092001 -> 1104000 bytes
+TX (06/05/24 09:33:28.176): Sending 1104001 -> 1116000 bytes
+TX (06/05/24 09:33:28.316): Sending 1116001 -> 1128000 bytes
+TX (06/05/24 09:33:28.457): Sending 1128001 -> 1140000 bytes
+TX (06/05/24 09:33:28.598): Sending 1140001 -> 1152000 bytes
+TX (06/05/24 09:33:28.738): Sending 1152001 -> 1164000 bytes
+TX (06/05/24 09:33:28.879): Sending 1164001 -> 1176000 bytes
+TX (06/05/24 09:33:29.019): Sending 1176001 -> 1188000 bytes
+TX (06/05/24 09:33:29.160): Sending 1188001 -> 1200000 bytes
+TX (06/05/24 09:33:29.301): Sending 1200001 -> 1212000 bytes
+TX (06/05/24 09:33:29.452): Sending 1212001 -> 1224000 bytes
+TX (06/05/24 09:33:29.592): Sending 1224001 -> 1236000 bytes
+TX (06/05/24 09:33:29.733): Sending 1236001 -> 1248000 bytes
+TX (06/05/24 09:33:29.874): Sending 1248001 -> 1260000 bytes
+TX (06/05/24 09:33:30.014): Sending 1260001 -> 1272000 bytes
+TX (06/05/24 09:33:30.155): Sending 1272001 -> 1284000 bytes
+TX (06/05/24 09:33:30.311): Sending 1284001 -> 1296000 bytes
+TX (06/05/24 09:33:30.452): Sending 1296001 -> 1308000 bytes
+TX (06/05/24 09:33:30.592): Sending 1308001 -> 1320000 bytes
+TX (06/05/24 09:33:30.732): Sending 1320001 -> 1332000 bytes
+TX (06/05/24 09:33:30.873): Sending 1332001 -> 1344000 bytes
+TX (06/05/24 09:33:31.014): Sending 1344001 -> 1356000 bytes
+TX (06/05/24 09:33:31.170): Sending 1356001 -> 1368000 bytes
+TX (06/05/24 09:33:31.311): Sending 1368001 -> 1380000 bytes
+TX (06/05/24 09:33:31.451): Sending 1380001 -> 1392000 bytes
+TX (06/05/24 09:33:31.592): Sending 1392001 -> 1404000 bytes
+TX (06/05/24 09:33:31.733): Sending 1404001 -> 1416000 bytes
+TX (06/05/24 09:33:31.873): Sending 1416001 -> 1428000 bytes
+TX (06/05/24 09:33:32.014): Sending 1428001 -> 1440000 bytes
+TX (06/05/24 09:33:32.155): Sending 1440001 -> 1452000 bytes
+TX (06/05/24 09:33:32.311): Sending 1452001 -> 1464000 bytes
+TX (06/05/24 09:33:32.446): Sending 1464001 -> 1476000 bytes
+TX (06/05/24 09:33:32.587): Sending 1476001 -> 1488000 bytes
+TX (06/05/24 09:33:32.727): Sending 1488001 -> 1500000 bytes
+TX (06/05/24 09:33:32.868): Sending 1500001 -> 1512000 bytes
+TX (06/05/24 09:33:33.008): Sending 1512001 -> 1524000 bytes
+TX (06/05/24 09:33:33.151): Sending 1524001 -> 1536000 bytes
+TX (06/05/24 09:33:33.291): Sending 1536001 -> 1548000 bytes
+TX (06/05/24 09:33:33.447): Sending 1548001 -> 1560000 bytes
+TX (06/05/24 09:33:33.588): Sending 1560001 -> 1572000 bytes
+TX (06/05/24 09:33:33.729): Sending 1572001 -> 1584000 bytes
+TX (06/05/24 09:33:33.869): Sending 1584001 -> 1596000 bytes
+TX (06/05/24 09:33:34.010): Sending 1596001 -> 1608000 bytes
+TX (06/05/24 09:33:34.150): Sending 1608001 -> 1620000 bytes
+TX (06/05/24 09:33:34.291): Sending 1620001 -> 1632000 bytes
+TX (06/05/24 09:33:34.432): Sending 1632001 -> 1644000 bytes
+TX (06/05/24 09:33:34.572): Sending 1644001 -> 1656000 bytes
+TX (06/05/24 09:33:34.713): Sending 1656001 -> 1668000 bytes
+TX (06/05/24 09:33:34.853): Sending 1668001 -> 1680000 bytes
+TX (06/05/24 09:33:34.996): Sending 1680001 -> 1692000 bytes
+TX (06/05/24 09:33:35.136): Sending 1692001 -> 1704000 bytes
+TX (06/05/24 09:33:35.293): Sending 1704001 -> 1716000 bytes
+TX (06/05/24 09:33:35.443): Sending 1716001 -> 1728000 bytes
+TX (06/05/24 09:33:35.584): Sending 1728001 -> 1740000 bytes
+TX (06/05/24 09:33:35.725): Sending 1740001 -> 1752000 bytes
+TX (06/05/24 09:33:35.866): Sending 1752001 -> 1764000 bytes
+TX (06/05/24 09:33:36.006): Sending 1764001 -> 1776000 bytes
+TX (06/05/24 09:33:36.146): Sending 1776001 -> 1788000 bytes
+TX (06/05/24 09:33:36.287): Sending 1788001 -> 1800000 bytes
+TX (06/05/24 09:33:36.428): Sending 1800001 -> 1812000 bytes
+TX (06/05/24 09:33:36.568): Sending 1812001 -> 1824000 bytes
+TX (06/05/24 09:33:36.708): Sending 1824001 -> 1836000 bytes
+TX (06/05/24 09:33:36.851): Sending 1836001 -> 1848000 bytes
+TX (06/05/24 09:33:36.991): Sending 1848001 -> 1860000 bytes
+TX (06/05/24 09:33:37.132): Sending 1860001 -> 1872000 bytes
+TX (06/05/24 09:33:37.273): Sending 1872001 -> 1884000 bytes
+TX (06/05/24 09:33:37.413): Sending 1884001 -> 1896000 bytes
+TX (06/05/24 09:33:37.554): Sending 1896001 -> 1908000 bytes
+TX (06/05/24 09:33:37.694): Sending 1908001 -> 1920000 bytes
+TX (06/05/24 09:33:37.835): Sending 1920001 -> 1932000 bytes
+TX (06/05/24 09:33:37.976): Sending 1932001 -> 1944000 bytes
+TX (06/05/24 09:33:38.116): Sending 1944001 -> 1956000 bytes
+TX (06/05/24 09:33:38.257): Sending 1956001 -> 1968000 bytes
+TX (06/05/24 09:33:38.397): Sending 1968001 -> 1980000 bytes
+TX (06/05/24 09:33:38.548): Sending 1980001 -> 1992000 bytes
+TX (06/05/24 09:33:38.689): Sending 1992001 -> 2004000 bytes
+TX (06/05/24 09:33:38.830): Sending 2004001 -> 2016000 bytes
+TX (06/05/24 09:33:38.971): Sending 2016001 -> 2028000 bytes
+TX (06/05/24 09:33:39.112): Sending 2028001 -> 2040000 bytes
+TX (06/05/24 09:33:39.252): Sending 2040001 -> 2052000 bytes
+TX (06/05/24 09:33:39.393): Sending 2052001 -> 2064000 bytes
+TX (06/05/24 09:33:39.533): Sending 2064001 -> 2076000 bytes
+TX (06/05/24 09:33:39.674): Sending 2076001 -> 2088000 bytes
+TX (06/05/24 09:33:39.799): Sending 2088001 -> 2100000 bytes
+TX (06/05/24 09:33:39.955): Sending 2100001 -> 2112000 bytes
+TX (06/05/24 09:33:40.096): Sending 2112001 -> 2116800 bytes
+RX (06/05/24 09:33:40.256): W: DoneTX (06/05/24 09:33:41.407): Q;
+TX (06/05/24 09:33:41.436): Sending 1 -> 2 bytes
+TX (06/05/24 09:33:41.467): 2 bytes done
+RX (06/05/24 09:33:41.488): Q: StartRX (06/05/24 09:33:41.553): Q: aaa.txt		10 BytesRX (06/05/24 09:33:41.628): Q: Example.txt		2116800 BytesRX (06/05/24 09:33:41.693): Q: 10hz15minaperiodic.txt		840000 BytesRX (06/05/24 09:33:41.782): Q: EndTX (06/05/24 09:33:43.936): 5,Example.txt;
+TX (06/05/24 09:33:43.963): Sending 1 -> 14 bytes
+TX (06/05/24 09:33:43.992): 14 bytes done
+RX (06/05/24 09:33:44.015): 5: Opening FileRX (06/05/24 09:33:44.101): 5: File open: 2116800RX (06/05/24 09:33:44.196): 5: Loading new buffer from file from: 0RX (06/05/24 09:33:44.292): 5: Read 12000 bytes to: 12000RX (06/05/24 09:33:44.387): 5: Switching to buffer to currentRX (06/05/24 09:33:44.481): 5: Loading new buffer from file from: 12000RX (06/05/24 09:33:44.576): 5: Read 12000 bytes to: 24000RX (06/05/24 09:33:44.995): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:45.062): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:45.142): 5: Deleting complete current bufferRX (06/05/24 09:33:45.228): 5: Switching to buffer to currentRX (06/05/24 09:33:45.329): 5: Loading new buffer from file from: 24000RX (06/05/24 09:33:45.426): 5: Read 12000 bytes to: 36000RX (06/05/24 09:33:45.995): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:46.041): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:46.090): 5: Deleting complete current bufferRX (06/05/24 09:33:46.167): 5: Switching to buffer to currentRX (06/05/24 09:33:46.244): 5: Loading new buffer from file from: 36000RX (06/05/24 09:33:46.337): 5: Read 12000 bytes to: 48000RX (06/05/24 09:33:46.996): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:47.056): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:33:47.114): 5: Deleting complete current bufferRX (06/05/24 09:33:47.175): 5: Switching to buffer to currentRX (06/05/24 09:33:47.250): 5: Loading new buffer from file from: 48000RX (06/05/24 09:33:47.997): 5: Read 12000 bytes to: 60000RX (06/05/24 09:33:48.089): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:48.168): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:33:48.236): 5: Deleting complete current bufferRX (06/05/24 09:33:48.316): 5: Switching to buffer to currentRX (06/05/24 09:33:48.410): 5: Loading new buffer from file from: 60000RX (06/05/24 09:33:48.503): 5: Read 12000 bytes to: 72000RX (06/05/24 09:33:48.996): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:49.048): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:49.095): 5: Deleting complete current bufferRX (06/05/24 09:33:49.169): 5: Switching to buffer to currentRX (06/05/24 09:33:49.258): 5: Loading new buffer from file from: 72000RX (06/05/24 09:33:49.353): 5: Read 12000 bytes to: 84000RX (06/05/24 09:33:49.996): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:50.070): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:33:50.142): 5: Deleting complete current bufferRX (06/05/24 09:33:50.206): 5: Switching to buffer to currentRX (06/05/24 09:33:50.300): 5: Loading new buffer from file from: 84000RX (06/05/24 09:33:50.391): 5: Read 12000 bytes to: 96000RX (06/05/24 09:33:50.997): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:51.050): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:33:51.116): 5: Deleting complete current bufferRX (06/05/24 09:33:51.202): 5: Switching to buffer to currentRX (06/05/24 09:33:51.275): 5: Loading new buffer from file from: 96000RX (06/05/24 09:33:51.365): 5: Read 12000 bytes to: 108000RX (06/05/24 09:33:51.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:52.057): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:52.124): 5: Deleting complete current bufferRX (06/05/24 09:33:52.189): 5: Switching to buffer to currentRX (06/05/24 09:33:52.282): 5: Loading new buffer from file from: 108000RX (06/05/24 09:33:52.376): 5: Read 12000 bytes to: 120000RX (06/05/24 09:33:52.996): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:53.050): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:33:53.110): 5: Deleting complete current bufferRX (06/05/24 09:33:53.202): 5: Switching to buffer to currentRX (06/05/24 09:33:53.289): 5: Loading new buffer from file from: 120000RX (06/05/24 09:33:53.384): 5: Read 12000 bytes to: 132000RX (06/05/24 09:33:53.996): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:54.059): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:54.111): 5: Deleting complete current bufferRX (06/05/24 09:33:54.165): 5: Switching to buffer to currentRX (06/05/24 09:33:54.231): 5: Loading new buffer from file from: 132000RX (06/05/24 09:33:54.338): 5: Read 12000 bytes to: 144000RX (06/05/24 09:33:54.997): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:55.064): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:33:55.125): 5: Deleting complete current bufferRX (06/05/24 09:33:55.212): 5: Switching to buffer to currentRX (06/05/24 09:33:55.306): 5: Loading new buffer from file from: 144000RX (06/05/24 09:33:55.397): 5: Read 12000 bytes to: 156000RX (06/05/24 09:33:55.997): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:56.056): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:56.116): 5: Deleting complete current bufferRX (06/05/24 09:33:56.180): 5: Switching to buffer to currentRX (06/05/24 09:33:56.244): 5: Loading new buffer from file from: 156000RX (06/05/24 09:33:56.329): 5: Read 12000 bytes to: 168000RX (06/05/24 09:33:56.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:57.049): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:33:57.108): 5: Deleting complete current bufferRX (06/05/24 09:33:57.174): 5: Switching to buffer to currentRX (06/05/24 09:33:57.238): 5: Loading new buffer from file from: 168000RX (06/05/24 09:33:57.304): 5: Read 12000 bytes to: 180000RX (06/05/24 09:33:57.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:58.055): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:58.118): 5: Deleting complete current bufferRX (06/05/24 09:33:58.183): 5: Switching to buffer to currentRX (06/05/24 09:33:58.264): 5: Loading new buffer from file from: 180000RX (06/05/24 09:33:58.353): 5: Read 12000 bytes to: 192000RX (06/05/24 09:33:58.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:33:59.075): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:33:59.132): 5: Deleting complete current bufferRX (06/05/24 09:33:59.205): 5: Switching to buffer to currentRX (06/05/24 09:33:59.299): 5: Loading new buffer from file from: 192000RX (06/05/24 09:33:59.392): 5: Read 12000 bytes to: 204000RX (06/05/24 09:33:59.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:00.056): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:00.105): 5: Deleting complete current bufferRX (06/05/24 09:34:00.170): 5: Switching to buffer to currentRX (06/05/24 09:34:00.243): 5: Loading new buffer from file from: 204000RX (06/05/24 09:34:00.327): 5: Read 12000 bytes to: 216000RX (06/05/24 09:34:00.999): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:01.050): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:01.100): 5: Deleting complete current bufferRX (06/05/24 09:34:01.186): 5: Switching to buffer to currentRX (06/05/24 09:34:01.260): 5: Loading new buffer from file from: 216000RX (06/05/24 09:34:01.339): 5: Read 12000 bytes to: 228000RX (06/05/24 09:34:01.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:02.064): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:02.117): 5: Deleting complete current bufferRX (06/05/24 09:34:02.178): 5: Switching to buffer to currentRX (06/05/24 09:34:02.257): 5: Loading new buffer from file from: 228000RX (06/05/24 09:34:02.342): 5: Read 12000 bytes to: 240000RX (06/05/24 09:34:02.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:03.053): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:03.104): 5: Deleting complete current bufferRX (06/05/24 09:34:03.178): 5: Switching to buffer to currentRX (06/05/24 09:34:03.260): 5: Loading new buffer from file from: 240000RX (06/05/24 09:34:03.348): 5: Read 12000 bytes to: 252000RX (06/05/24 09:34:03.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:04.069): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:04.138): 5: Deleting complete current bufferRX (06/05/24 09:34:04.207): 5: Switching to buffer to currentRX (06/05/24 09:34:04.276): 5: Loading new buffer from file from: 252000RX (06/05/24 09:34:04.376): 5: Read 12000 bytes to: 264000RX (06/05/24 09:34:04.998): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:05.047): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:05.096): 5: Deleting complete current bufferRX (06/05/24 09:34:05.160): 5: Switching to buffer to currentRX (06/05/24 09:34:05.250): 5: Loading new buffer from file from: 264000RX (06/05/24 09:34:05.350): 5: Read 12000 bytes to: 276000RX (06/05/24 09:34:06.000): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:06.076): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:06.144): 5: Deleting complete current bufferRX (06/05/24 09:34:06.219): 5: Switching to buffer to currentRX (06/05/24 09:34:06.311): 5: Loading new buffer from file from: 276000RX (06/05/24 09:34:06.406): 5: Read 12000 bytes to: 288000RX (06/05/24 09:34:07.002): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:07.060): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:07.115): 5: Deleting complete current bufferRX (06/05/24 09:34:07.181): 5: Switching to buffer to currentRX (06/05/24 09:34:07.252): 5: Loading new buffer from file from: 288000RX (06/05/24 09:34:07.322): 5: Read 12000 bytes to: 300000RX (06/05/24 09:34:08.003): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:08.060): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:08.120): 5: Deleting complete current bufferRX (06/05/24 09:34:08.186): 5: Switching to buffer to currentRX (06/05/24 09:34:08.260): 5: Loading new buffer from file from: 300000RX (06/05/24 09:34:08.357): 5: Read 12000 bytes to: 312000RX (06/05/24 09:34:09.002): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:09.064): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:09.119): 5: Deleting complete current bufferRX (06/05/24 09:34:09.174): 5: Switching to buffer to currentRX (06/05/24 09:34:09.256): 5: Loading new buffer from file from: 312000RX (06/05/24 09:34:09.382): 5: Read 12000 bytes to: 324000RX (06/05/24 09:34:10.000): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:10.052): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:10.103): 5: Deleting complete current bufferRX (06/05/24 09:34:10.158): 5: Switching to buffer to currentRX (06/05/24 09:34:10.233): 5: Loading new buffer from file from: 324000RX (06/05/24 09:34:10.329): 5: Read 12000 bytes to: 336000RX (06/05/24 09:34:11.001): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:11.057): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:11.109): 5: Deleting complete current bufferRX (06/05/24 09:34:11.167): 5: Switching to buffer to currentRX (06/05/24 09:34:11.246): 5: Loading new buffer from file from: 336000RX (06/05/24 09:34:11.339): 5: Read 12000 bytes to: 348000RX (06/05/24 09:34:12.001): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:12.051): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:12.102): 5: Deleting complete current bufferRX (06/05/24 09:34:12.189): 5: Switching to buffer to currentRX (06/05/24 09:34:12.258): 5: Loading new buffer from file from: 348000RX (06/05/24 09:34:12.347): 5: Read 12000 bytes to: 360000RX (06/05/24 09:34:13.002): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:13.067): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:13.126): 5: Deleting complete current bufferRX (06/05/24 09:34:13.185): 5: Switching to buffer to currentRX (06/05/24 09:34:13.265): 5: Loading new buffer from file from: 360000RX (06/05/24 09:34:13.338): 5: Read 12000 bytes to: 372000RX (06/05/24 09:34:14.003): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:14.068): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:14.128): 5: Deleting complete current bufferRX (06/05/24 09:34:14.207): 5: Switching to buffer to currentRX (06/05/24 09:34:14.292): 5: Loading new buffer from file from: 372000RX (06/05/24 09:34:14.390): 5: Read 12000 bytes to: 384000RX (06/05/24 09:34:15.001): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:15.060): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:15.123): 5: Deleting complete current bufferRX (06/05/24 09:34:15.189): 5: Switching to buffer to currentRX (06/05/24 09:34:15.265): 5: Loading new buffer from file from: 384000RX (06/05/24 09:34:15.356): 5: Read 12000 bytes to: 396000RX (06/05/24 09:34:15.751): E: Error Code 10RX (06/05/24 09:34:16.001): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:16.068): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:16.132): 5: Deleting complete current bufferRX (06/05/24 09:34:16.191): 5: Switching to buffer to currentRX (06/05/24 09:34:16.251): 5: Loading new buffer from file from: 396000RX (06/05/24 09:34:16.317): 5: Read 12000 bytes to: 408000RX (06/05/24 09:34:17.001): I: Displayed frames 2000 of 2000TX (06/05/24 09:34:17.106): A;
+TX (06/05/24 09:34:17.135): Sending 1 -> 2 bytes
+TX (06/05/24 09:34:17.160): 2 bytes done
+RX (06/05/24 09:34:17.198): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:17.265): 5: Deleting complete current bufferRX (06/05/24 09:34:17.335): 5: Switching to buffer to currentRX (06/05/24 09:34:17.415): 5: Loading new buffer from file from: 408000RX (06/05/24 09:34:17.485): 5: Read 12000 bytes to: 420000RX (06/05/24 09:34:18.002): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:18.063): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:18.118): 5: Deleting complete current bufferRX (06/05/24 09:34:18.178): 5: Switching to buffer to currentRX (06/05/24 09:34:18.237): 5: Loading new buffer from file from: 420000RX (06/05/24 09:34:18.318): 5: Read 12000 bytes to: 432000RX (06/05/24 09:34:19.003): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:19.067): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:19.137): 5: Deleting complete current bufferRX (06/05/24 09:34:19.204): 5: Switching to buffer to currentRX (06/05/24 09:34:19.266): 5: Loading new buffer from file from: 432000RX (06/05/24 09:34:19.317): 5: Read 12000 bytes to: 444000RX (06/05/24 09:34:20.004): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:20.057): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:20.126): 5: Deleting complete current bufferRX (06/05/24 09:34:20.191): 5: Switching to buffer to currentRX (06/05/24 09:34:20.243): 5: Loading new buffer from file from: 444000RX (06/05/24 09:34:20.300): 5: Read 12000 bytes to: 456000RX (06/05/24 09:34:20.754): E: Error Code 10RX (06/05/24 09:34:21.002): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:21.055): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:21.102): 5: Deleting complete current bufferRX (06/05/24 09:34:21.152): 5: Switching to buffer to currentRX (06/05/24 09:34:21.201): 5: Loading new buffer from file from: 456000RX (06/05/24 09:34:21.253): 5: Read 12000 bytes to: 468000RX (06/05/24 09:34:22.003): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:22.050): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:22.105): 5: Deleting complete current bufferRX (06/05/24 09:34:22.157): 5: Switching to buffer to currentRX (06/05/24 09:34:22.235): 5: Loading new buffer from file from: 468000RX (06/05/24 09:34:22.307): 5: Read 12000 bytes to: 480000RX (06/05/24 09:34:23.005): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:23.068): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:23.121): 5: Deleting complete current bufferRX (06/05/24 09:34:23.186): 5: Switching to buffer to currentRX (06/05/24 09:34:23.250): 5: Loading new buffer from file from: 480000RX (06/05/24 09:34:23.331): 5: Read 12000 bytes to: 492000RX (06/05/24 09:34:24.005): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:24.059): I: Skipped frames 0 frameWriteTime 337RX (06/05/24 09:34:24.124): 5: Deleting complete current bufferRX (06/05/24 09:34:24.196): 5: Switching to buffer to currentRX (06/05/24 09:34:24.270): 5: Loading new buffer from file from: 492000RX (06/05/24 09:34:24.329): 5: Read 12000 bytes to: 504000RX (06/05/24 09:34:25.004): I: Displayed frames 2000 of 2000RX (06/05/24 09:34:25.056): I: Skipped frames 0 frameWriteTime 336RX (06/05/24 09:34:25.106): 5: Deleting complete current bufferRX (06/05/24 09:34:25.154): 5: Switching to buffer to currentRX (06/05/24 09:34:25.213): 5: Loading new buffer from file from: 504000RX (06/05/24 09:34:25.278): 5: Read 12000 bytes to: 516000RX (06/05/24 09:34:26.004): I: Displayed frames 2000 of 2000

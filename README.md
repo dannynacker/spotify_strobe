@@ -12,3 +12,5 @@ Loudness is transformed into amplitude by correcting for the API's -60 dB suppre
 Frequency and amplitude per time sample are then fed into a periodic strobosopic stimulation sequence for the SCCS research strobe.
 
 This repository contains one example of this script in action to Holst's "Jupiter, the Bringer of Jollity" from The Planets, Op. 32, jupiter.m.
+
+as well as an entire "concert experience", experience.m 
